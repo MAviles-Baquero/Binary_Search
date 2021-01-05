@@ -1,0 +1,1 @@
+/usr/bin/c++  -O0 -O2 -g -DNDEBUG  -rdynamic CMakeFiles/hw5test.dir/hw5_test.cpp.o  -o hw5test -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 
